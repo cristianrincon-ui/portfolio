@@ -1,0 +1,20 @@
+:root {
+	--bgColor: #F2F2F2;
+    --green: #00927d;
+    --darkGreen: #004c41;
+    --negroClaro: #363636;
+    --gray: #999999;
+    --lightGray: #B4B4B4;
+}
+
+
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Montserrat', sans-serif;
+}
